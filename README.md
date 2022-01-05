@@ -1,0 +1,2 @@
+# WebScrappingMercado-Livre
+A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada para posterior análise. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa.  Site utilizando: Mercado Livre Produto pesquisado no exemplo: Iphone
